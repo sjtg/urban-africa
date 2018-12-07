@@ -161,21 +161,26 @@ img {
   }
 }
 
-/*About us Section*/
-.aboutusText {
-  width: 400px;
-}
-
-.aboutusImage {
-  width: 600px;
+* {
+  box-sizing: border-box;
 }
 
 .row {
   display: flex;
 }
 
+/*About us Section*/
+.aboutusText {
+  /* width: 400px; */
+  margin-right: 100px;
+}
+
+.aboutusImage {
+  /* width: 600px; */
+}
+
 .column {
-  flex: 50%;
-  padding: 10px;
+  /* flex: 50%; */
+  /* padding: 10px; */
   height: 300px;
 }
