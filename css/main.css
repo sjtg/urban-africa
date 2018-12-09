@@ -422,25 +422,19 @@ img {
 
 
 /* Solutions section */
-.subText {
-  text-justify: inter-word;
-}
 
 .row {
   display: flex;
 }
 
-/* sub1,
-sub2,
-sub3,
-column {
-  height: 300px;
-} */
+.solutioncolumn  {
+  float: left;
+  width: 31%;
+  padding: 0 11px;
+}
+
 
 .subText {
-  padding: 10px;
-  width: 400px;
-  height: 200px;
   text-align: justify;
 }
 
