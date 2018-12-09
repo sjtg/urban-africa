@@ -285,7 +285,7 @@ img {
 }
 
 .mySlides img {
-  height: 50%;
+  height: 600px;
 }
 
 /* Next & previous buttons */
@@ -398,21 +398,28 @@ img {
 }
 
 /*About us Section*/
+
+.column {
+  float: left;
+  width: 35%;
+  padding: 0 10px;
+}
+
+
 .aboutusText {
   /* width: 400px; */
-  marign-left: -100px;
+  width: 100%;
+  padding-top: 30%;
+  text-align: justify;
 }
 
 .aboutusImage {
+  width: 100%;
+  padding: 0 15px;
   /* width: 600px; */
 }
 
-.column {
-  /* flex: 50%; */
-  /* padding: 10px; */
-  height: 300px;
-  clear: both;
-}
+
 
 /* Solutions section */
 .subText {
