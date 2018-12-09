@@ -440,6 +440,11 @@ img {
 
 /* Case Study */
 /* Float four columns side by side */
+.casestudyColumn {
+  float: left;
+  width: 25%;
+  padding: 0 10px;
+}
 .columns {
   float: left;
   width: 25%;
