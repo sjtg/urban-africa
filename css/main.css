@@ -501,6 +501,25 @@ img {
   }
 }
 
+/*Publication Section*/
+.publicationColumn {
+  float: left;
+  width: 31%;
+  padding: 0 11px;
+}
+/*End of Publication Section*/
+
+
+
+
+
+/*Team Section*/
+.teamColumn {
+  float: left;
+  width: 31%;
+  padding: 0 11px;
+}
+
 .cards {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
   max-width: 300px;
