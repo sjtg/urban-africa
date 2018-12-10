@@ -3,6 +3,8 @@ body {
   font-family: "Montserrat", sans-serif;
   font-size: 13px;
   color: #333f50;
+  overflow-y: scroll;
+overflow-x: hidden;
 }
 
 /* Float button */
@@ -140,6 +142,7 @@ a#menu-share:hover > i {
 .mainNav {
  /* padding: 0 65px 0 65px;*/
  padding-left: 50px;
+ 
  
 }
 
